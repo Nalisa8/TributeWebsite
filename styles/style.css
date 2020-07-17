@@ -1,10 +1,24 @@
 
 
 body {
-    background: #f5f5f5;
+    background: #99c59fda;
+    display: flex;
+    justify-content: center;
+}
+
+/* Header*/
+#gg {
+     background-color: aliceblue;
+        margin: 0;
+    
+}
+
+header title{
+    
 }
 
 img {
     width: 700px;
     height: 400px;
+    position: center;
 }
